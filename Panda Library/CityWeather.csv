@@ -1,0 +1,20 @@
+Date ,City,Temp,Wind ,Event 
+10-05-2019,Mumbai,32,9,Sunny
+12-05-2019,Pune,21,7,Rain
+14-05-2019,Goa,34,5,Sunny
+15-05-2019,Mumbai,34.5,3,Sunny
+16-05-2019,Goa,33,6,Snow
+17-05-2019,Nashik,22,8,fog
+18-05-2019,Ratan,34,9,Sunny
+19-05-2019,Pune,22,3,Rain
+20-05-2019,Mumbai,31,12,Sunny
+21-05-2019,Navi Mumbai,25.7,6,fog
+22-05-2019,Navi Mumbai,22.6,14,Snow
+23-05-2019,Goa,43,16,Sunny
+24-05-2019,Pune,30.4,12,Sunny
+25-05-2019,Mumbai,10,15,Rain
+26-05-2019,Jal gaow,6,9,Rain
+27-05-2019,Eigat ,14,10,Rain
+28-05-2019,Eigat ,42,3,Sunny
+29-05-2019,Bhusawal,32,18,Sunny
+30-05-2019,Pune,10,20,Snow
